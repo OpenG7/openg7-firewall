@@ -4,6 +4,8 @@
 
 ## 🇬🇧 English
 
+![OpenG7 – Customs Valuation Lab](docs/images/openg7-firewall-banner.png)
+
 **Open-source digital firewall for the OpenG7 ecosystem**
 
 🔐 **What it is**  
@@ -175,6 +177,8 @@ Please open an issue before major changes.
 ---
 
 ## 🇫🇷 Français
+
+![OpenG7 – Customs Valuation Lab](docs/images/openg7-firewall-banner.png)
 
 **Pare-feu numérique open source pour l’écosystème OpenG7**
 
